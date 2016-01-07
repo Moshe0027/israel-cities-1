@@ -347,7 +347,7 @@
   {
     "id": 2600,
     "name": "אילת",
-    "engName": "ELAT"
+    "engName": "EILAT"
   },
   {
     "id": 1336,
@@ -687,12 +687,12 @@
   {
     "id": 155,
     "name": "באר טוביה",
-    "engName": "BE'ER TOVIYYA"
+    "engName": "BEER TOVIYYA"
   },
   {
     "id": 2530,
     "name": "באר יעקב",
-    "engName": "BE'ER YA'AQOV"
+    "engName": "BEER YAAKOV"
   },
   {
     "id": 1278,
@@ -702,17 +702,17 @@
   {
     "id": 9000,
     "name": "באר שבע",
-    "engName": "BE'ER SHEVA"
+    "engName": "BEER SHEVA"
   },
   {
     "id": 450,
     "name": "בארות יצחק",
-    "engName": "BE'EROT YIZHAQ"
+    "engName": "BEEROT YIZHAQ"
   },
   {
     "id": 697,
     "name": "בארותיים",
-    "engName": "BE'EROTAYIM"
+    "engName": "B'EROTAYIM"
   },
   {
     "id": 399,
@@ -1902,7 +1902,7 @@
   {
     "id": 6400,
     "name": "הרצלייה",
-    "engName": "HERZLIYYA"
+    "engName": "HERZLIYA"
   },
   {
     "id": 1203,
@@ -5122,7 +5122,7 @@
   {
     "id": 7900,
     "name": "פתח תקווה",
-    "engName": "PETAH TIQWA"
+    "engName": "PETAH TIKVA"
   },
   {
     "id": 839,
@@ -5487,7 +5487,7 @@
   {
     "id": 8300,
     "name": "ראשון לציון",
-    "engName": "RISHON LEZIYYON"
+    "engName": "RISHON LEZION"
   },
   {
     "id": 3795,
